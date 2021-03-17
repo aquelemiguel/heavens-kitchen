@@ -5,6 +5,8 @@
   <img src="https://i.imgur.com/ORQ6u7v.gif" width="370" title="hover text"> 
 </p>
 
+### ⚠ This is a legacy fork. Visit [**the original repo**](https://github.com/veryprofessionaldodo/Heavens-Kitchen) for updates after the jam's end.
+
 Our 1st place entry for IEEE University of Porto Student Branch 2021 Retro Jam was **'Heaven's Kitchen'**, a game made in 48 hours for the **[TIC-80 fantasy console](https://tic80.com/)** by a team of five software engineers. The jam's theme was **REACTION**.  
 See all jam entries on its [itch.io page](https://itch.io/jam/retrojam2021/entries).
 
@@ -14,7 +16,7 @@ Our submission won **Best Game** 🥇, **Best Art** 🎨, **Best Gameplay** 🕹
 
 ### Concept
 
-> Create Pikmin to please God
+> *Create Pikmin to please God.*
 
 You've just got accepted into Heaven's Kitchen, the holiest contest in the universe to-be. Your task is to populate a recently created world by crafting different chemical concoctions into new creatures. Follow your chef's instructions and make your way through chaotic levels as you try your best to create a world in your bosses' image.
 
